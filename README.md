@@ -1,5 +1,3 @@
-# btech-it-journey
-My learning journey from beginner to IT developer
 # B.Tech IT Journey 🚀
 
 Hi! I'm learning Information Technology from the basics.
