@@ -14,7 +14,7 @@ Hi! I'm learning Information Technology from the basics.
 ## 📚 Currently Learning
 
 - Git & GitHub
-- Python
+- C
 
 ## 🗓️ Progress
 
